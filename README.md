@@ -1,7 +1,7 @@
 # Bangalore House Price Prediction Web App 
 This is a machine learning-based web application that predicts housing prices in Bangalore based on various input features such as location, total square feet, number of bedrooms (BHK), and number of bathrooms.
 
-## Screenshots ![Homepage](Bangalore Home Price Prediction Website.png)
+## Screenshots ![Bangalore Home Price Prediction Website.png](https://github.com/Saitama895/Home-Price-Prediction/blob/main/Bangalore%20Home%20Price%20Prediction%20Website.PNG)
 
 ## Dataset - Source: [Bangalore House Price Data on Kaggle](https://www.kaggle.com/datasets/amitabhajoy/bengaluru-house-price-data) 
 - Features include: location, size, total_sqft, bath, price, etc.
